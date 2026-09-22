@@ -1,12 +1,12 @@
 # Thank God - cybersecurity portfolio
 ## About me
-i'm ThankGod, a cybersecurity learner building practical skills in network security,linux,websecurity and security analysis.
+I'm Thank God, a cybersecurity learner building practical skills in network security, Linux, web security and security analysis.
 I'm currently developing my skills through hand-on labs and authorized security texting environments.
 ## skills
-- linux / kalilinux
+- Linux / kali Linux
 - networking fundamentals
 - Nmap
-- wireshark
+- Wireshark
 - Burp suite
 - basic python
 - Bash
@@ -19,4 +19,10 @@ Analyzing network packets and identifying common protocols and network activity.
 ### 3. web security lab 
 practicing web-security concepts using intentionally vulnerable training applications.
 ### 4. Linux security Lab 
-practicing Linux administration, permission, processes and basic security tasks 
+practicing Linux administration, permission, processes and basic security tasks.
+## currently learning
+- Network security
+- Web application security
+- Ethical Hacking
+- Digital forensics
+- security Analysis
