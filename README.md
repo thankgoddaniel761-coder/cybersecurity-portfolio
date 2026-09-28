@@ -1,6 +1,6 @@
 # Thank God - cybersecurity portfolio
 ## About me
-I'm Thank God, a cybersecurity learner building practical skills in network security, Linux, web security and security analysis.
+I'm Thank God, a cybersecurity specialist building practical skills in network security, Linux, web security and security analysis.
 I'm currently developing my skills through hand-on labs and authorized security texting environments.
 ## skills
 - Linux / kali Linux
