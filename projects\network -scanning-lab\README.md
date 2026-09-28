@@ -15,6 +15,6 @@ Learn how to network scanning works and understand how hosts, ports, and service
 - Basic network enumeration
 - how to interpret Nmap scan result
 ## Method
-i performed network scan only against systems that i own or i have explicit permission to test.
+I performed network scan only against systems that i own or i have explicit permission to test.
 ## Results 
 I documented the scan results and analyzed the ports and services discovered.
