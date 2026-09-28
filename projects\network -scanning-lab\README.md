@@ -1,6 +1,6 @@
 # Network scanning Lab 
 ## objective 
-Learn how to network scanning works and understand how hosts, ports, and services can be discovered in an authorized laboratory environment.
+Learn how network scanning works and understand how hosts, ports, and services can be discovered in an authorized laboratory environment.
 ## Environment 
 - kali Linux
 - vitualBox
